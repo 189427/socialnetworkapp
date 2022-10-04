@@ -1,0 +1,24 @@
+{
+  "name": "socialnetworkapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/189427/socialnetworkapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/189427/socialnetworkapp/issues"
+  },
+  "homepage": "https://github.com/189427/socialnetworkapp#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongodb": "^4.10.0"
+  }
+}
